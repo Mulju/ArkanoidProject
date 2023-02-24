@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9adc89e8f1a3e1042a71d3e7b1178cb2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ball: {instanceID: 0}
+  - extraBallDrop: {fileID: 729464926855011546, guid: b8a3790d46eae774dbafaabfc7f4b503, type: 3}
+  - lengthDrop: {fileID: 633845320701133892, guid: b2fa3f9abdc001343b06dc9e69dc89a3, type: 3}
+  - speedDrop: {fileID: 4324609665314256520, guid: 772b6bf6b64ed514ea6d6e74a580c9da, type: 3}
+  - extraLifeDrop: {fileID: 2520633067603950062, guid: fafafdcd8770c6c41af7050a670505f9, type: 3}
+  - extraPointsDrop: {fileID: 352226696771138718, guid: 0c7f037efded4814e9cf8095072cf923, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
